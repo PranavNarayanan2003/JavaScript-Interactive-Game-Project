@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //Draw the game character 
 function drawGameCharacter() {
 	if (isLeft && isFalling) {  //game character jumping left
@@ -321,7 +320,6 @@ function keyReleased() {
 		}
 	}
 }
-=======
 //Draw the game character 
 function drawGameCharacter() {
 	if (isLeft && isFalling) {  //game character jumping left
@@ -644,4 +642,3 @@ function keyReleased() {
 		}
 	}
 }
->>>>>>> 6fa39653a573b47887e6507c9382ea71beeb3ae0
